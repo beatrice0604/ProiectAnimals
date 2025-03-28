@@ -1,0 +1,14 @@
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\bin\Debug\net8.0\Animals.exe
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\bin\Debug\net8.0\Animals.deps.json
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\bin\Debug\net8.0\Animals.runtimeconfig.json
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\bin\Debug\net8.0\Animals.dll
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\bin\Debug\net8.0\Animals.pdb
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\obj\Debug\net8.0\Animals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\obj\Debug\net8.0\Animals.AssemblyInfoInputs.cache
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\obj\Debug\net8.0\Animals.AssemblyInfo.cs
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\obj\Debug\net8.0\Animals.csproj.CoreCompileInputs.cache
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\obj\Debug\net8.0\Animals.dll
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\obj\Debug\net8.0\refint\Animals.dll
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\obj\Debug\net8.0\Animals.pdb
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\obj\Debug\net8.0\Animals.genruntimeconfig.cache
+C:\Master\M3\Medii si platforme\Tema1\Animals\Animals\obj\Debug\net8.0\ref\Animals.dll
