@@ -11,11 +11,6 @@ public class MainClass
         Cat cat = new Cat();    
         Otter otter = new Otter();  
 
-        //var animals = new List<Animal>();
-        //animals.Add(rooster);   
-        //animals.Add(cat);   
-        //animals.Add(otter);  
-
         var animalsI  = new List<IAnimal>();
         animalsI.Add(rooster);
         animalsI.Add(cat);
